@@ -1,2 +1,2 @@
 # Brainwave_Matrix_Intern_2
-a password strength checker
+A Python-based tool to evaluate password strength and provide actionable feedback for improvement.
