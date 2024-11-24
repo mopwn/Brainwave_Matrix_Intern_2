@@ -7,4 +7,4 @@ Features:
 - Actionable Feedback: Provides specific suggestions to help users strengthen their passwords.
 - Modular and Extendable: Clean, structured code for easy customization and future enhancements.
   # Use Case:
-Ideal for developers, IT professionals, or anyone looking to integrate a password strength evaluation feature into their application.
+   Ideal for developers, IT professionals, or anyone looking to integrate a password strength evaluation feature into their application.
